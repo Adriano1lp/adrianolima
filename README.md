@@ -1,7 +1,8 @@
 ## Olá sou o Adriano Lima, Analista de teste Senior!
 <div align="center">
   <a href="https://github.com/Adriano1lp">
-  <img height="180em" src="https://avatars.githubusercontent.com/u/44970872?s=400&u=9d07d1354755d1dc29761d311aa943ee9ea00409&v=4/>
+  <img height="180em" src="https://github.com/Adriano1lp/adrianolima?tab=readme-ov-file"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
