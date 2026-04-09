@@ -1,8 +1,7 @@
 ## Olá sou o Adriano Lima, Analista de teste Senior!
 <div align="center">
   <a href="https://github.com/Adriano1lp">
-  <img height="180em" src="https://github.com/Adriano1lp/adrianolima?tab=readme-ov-file"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://avatars.githubusercontent.com/u/44970872?s=400&u=9d07d1354755d1dc29761d311aa943ee9ea00409&v=4/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +20,6 @@
   <a href = "mailto:adrianolima1p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-lima-76764085" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Adriano1lp/adrianolima/blob/2a1cf44a1e6c92b79996d72ba6d3b57d8e39cbe3/img/github-contribution-grid-snake.svg)
  
 </div>
